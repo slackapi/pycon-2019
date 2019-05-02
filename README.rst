@@ -1,6 +1,5 @@
 .. image:: https://user-images.githubusercontent.com/32463/57089746-1e136e80-6cd3-11e9-911f-8c841109314f.png
 
-
 Slack Pycon 2019 Workshop
 =============================
 
@@ -19,6 +18,10 @@ This example app shows how easy it is to implement the Slack Events API Adapter 
 See the `slide deck PDF`_ for setup instructions
 
 .. _slide deck PDF: https://github.com/slackapi/pycon-2019/blob/master/Pycon%202019%20Workshop.pdf
+
+
+.. image:: https://user-images.githubusercontent.com/32463/57104292-f386dd00-6cf5-11e9-991b-4e8930bcaf49.png
+
 
 
 More neat things:
