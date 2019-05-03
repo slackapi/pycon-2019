@@ -17,7 +17,7 @@ This example app shows how easy it is to implement the Slack Events API Adapter 
 
 See the `slide deck PDF`_ for setup instructions
 
-.. _slide deck PDF: https://github.com/slackapi/pycon-2019/blob/master/Pycon%202019%20Workshop.pdf
+.. _slide deck PDF: https://docs.google.com/presentation/d/17CI-ndPpTduL5DGiSt6u28eATa9IrRukLU27zF-vHa8
 
 
 .. image:: https://user-images.githubusercontent.com/32463/57104292-f386dd00-6cf5-11e9-991b-4e8930bcaf49.png
