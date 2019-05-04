@@ -15,7 +15,7 @@ This example app shows how easy it is to implement the Slack Events API Adapter 
 🤖  Setup and running the app
 ------------------------------
 
-See the `slide deck PDF`_ for setup instructions
+See the `slide deck`_ for setup instructions
 
 .. _slide deck PDF: https://docs.google.com/presentation/d/17CI-ndPpTduL5DGiSt6u28eATa9IrRukLU27zF-vHa8
 
