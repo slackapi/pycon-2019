@@ -19,12 +19,13 @@ See the `slide deck`_ for setup instructions
 
 .. _slide deck: https://docs.google.com/presentation/d/17CI-ndPpTduL5DGiSt6u28eATa9IrRukLU27zF-vHa8
 
-
-.. image:: https://user-images.githubusercontent.com/32463/57104292-f386dd00-6cf5-11e9-991b-4e8930bcaf49.png
-
 See the `example app`_ on Glitch
 
 .. _example app: https://glitch.com/~python-greet-bot
+
+
+.. image:: https://user-images.githubusercontent.com/32463/57104292-f386dd00-6cf5-11e9-991b-4e8930bcaf49.png
+
 
 
 More neat things:
